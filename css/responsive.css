@@ -1,0 +1,152 @@
+@media (max-width:1400px) {
+    section {
+        overflow: hidden;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 10px;
+    }
+    
+}
+
+@media (max-width:1200px) {
+    .h-middle-btn .default-btn {
+        width: 100%;
+        padding: 10px 15px;
+        text-align: center;
+    }
+    .request-quote-section {
+        top: 0px;
+    }
+    .text-white {
+        line-height: 35px;
+    }
+    .btn.btn-dark {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    .project-tab .nav .nav-item button strong {
+        font-size: 11px;
+    }
+    .news-sign h4 {
+        font-size: 18px;
+    }
+    .corousel-text {
+        top: 175px;
+    }
+    .corousel-text h4 {
+        font-size: 20px;
+    }
+    .corousel-text h1 {
+        font-size: 48px;
+    }
+    .corousel-text h5 {
+        padding: 5px 8px !important;
+        font-size: 16px;
+        margin-top: -35px;
+    }
+    .corousel-text h4 {
+        margin-top: -10px;
+    }
+}
+
+@media (max-width:991px) {
+    .header-top-left {
+        width: 100%;
+        justify-content: center;
+    }
+    .header-top-social {
+        width: 100%;
+    }
+    .header-top-social ul {
+        justify-content: center;
+        padding-left: 0;
+    }
+    .h-middle-left {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .h-middle-text{
+        width: 100%;
+        justify-content: center !important;
+    }
+    .h-middle-btn.d-flex {
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .h-middle-btn .default-btn {
+        width: 50%;
+    }
+    .navbar-toggler-icon {
+        color: #fff;
+        font-size: 25px;
+        margin-top: 4px;
+    }
+    .our-primary-menu li ul {
+        left: 120px;
+    }
+    .our-primary-menu li:hover ul{
+        top: 5%;
+    }
+    .corousel-text {
+        position: absolute;
+        left: 0;
+        top: 100px;
+    }
+    .corousel-text h4 {
+        font-size: 24px;
+    }
+    .corousel-text h1 {
+        font-size: 46px;
+        margin: 17px 0;
+    }
+    .news-sign {
+        margin-left: 0;
+    }
+    .news-form form input {
+        margin-top: -100px;
+        width: 45%;
+        margin-left: 254px;
+    }
+    .footer-bottom .col-xl-8.col-lg-6.mb-4 {
+        order: 1;
+    }
+    .footer-bottom-menu ul {
+        justify-content: center;
+    }
+    .copyright {
+        text-align: center;
+    }
+}
+
+@media (max-width:768px) {
+    .header-bottom.sticky-top {
+        position: inherit;
+    }
+    .corousel-text h4 {
+        font-size: 18px;
+    }
+    .corousel-text h1 {
+        font-size: 35px;
+        margin: 10px 0;
+    }
+    .corousel-text p {
+        font-size: 15px;
+    }
+    .newsletter-left {
+        height: 150px;
+        text-align: center;
+    }
+    .newsletter .newsletter-right {
+        height: 50%;
+        width: 100%;
+    }
+}
+@media (max-width:576px) {
+    .client-card {
+        height: auto;
+        width: 100%;
+    }
+    
+}
